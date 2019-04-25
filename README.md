@@ -12,3 +12,4 @@
 2. https://github.com/howardcorleone/Matlab-Music-Play
 
 **附录：**
+![image](https://github.com/lemontree699/matlab_music/pic/千秋.jpg)
